@@ -1,3 +1,4 @@
+## 在原版上增加IP分流规则
 
 ### x-ui精简修改版一键脚本，面板中的相关设置尽可能与原作者[vaxilu](https://github.com/vaxilu/x-ui)保持一致
 
@@ -45,26 +46,12 @@
 
 ### 一键脚本：
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Grails125/x-ui-yg/main/install.sh)
 ```
 或
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/x-ui-yg/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Grails125/x-ui-yg/main/install.sh)
 ```
-
------------------------------------------------------
-### x-ui-yg脚本菜单界面附加功能全开预览图（注：相关参数随意填写，仅供围观）
-
-![3b01adef46255df98053a3e49372373](https://github.com/user-attachments/assets/cea4568f-bb19-46b9-a35b-bacc67ac573a)
-
------------------------------------------------------
-### 感谢支持！微信打赏甬哥侃侃侃ygkkk
-![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/69597ca3-e7a5-44e7-8e5e-6305c7a63933)
-
------------------------------------------------------
-
-### 感谢你右上角的star🌟
-[![Stargazers over time](https://starchart.cc/yonggekkk/x-ui-yg.svg)](https://starchart.cc/yonggekkk/x-ui-yg)
 
 ---------------------------------------
 #### 声明：所有代码来源于Github参考项目与ChatGPT的整合，参考项目[vaxilu](https://github.com/vaxilu/x-ui)，[MHSanaei](https://github.com/MHSanaei/3x-ui)，[qist](https://github.com/qist/xray-ui)，[warpplus](https://github.com/bepass-org/warp-plus)
